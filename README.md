@@ -10,7 +10,7 @@ Created map visualizations utilzing Geoapify key.
 
 Conclusuions
 
-In the Northern hemisphere, the linear coefficient for maximum temperature vs lattitude is negative, which indicates that as the latitude goes up, the maximum temperature goes down. The Latitude vs Wind Speed plot shows indicates as latitude increases there are outliers for substantially higher wind speeds.
+In the Northern hemisphere, the linear coefficient for maximum temperature vs lattitude is negative, which indicates that as the latitude goes up, the maximum temperature goes down. The Latitude vs Wind Speed plot shows as latitude increases there are outliers for substantially higher wind speeds.
 
 
 Latitude Vs. Temperature 
