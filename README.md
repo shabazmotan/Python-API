@@ -31,7 +31,8 @@ Latitude Vs. Wind Speed
 
 Humidity Linear Regression Northern Hemisphere
 
-![image](https://user-images.githubusercontent.com/119978382/217617768-901ca4e3-bf13-4aa1-9a6f-8149846b80fb.png)
+![image](https://user-images.githubusercontent.com/119978382/217620679-40bdd436-2b3d-4924-aa60-7f27562270ed.png)
+
 
 Humidity Linear Regression Southern Hemisphere
 
