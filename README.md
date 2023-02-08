@@ -53,3 +53,10 @@ Wind Speed Linear Regression Northern Hemisphere
 Wind Speed Linear Regression Southern Hemisphere
 
 ![image](https://user-images.githubusercontent.com/119978382/217619039-d54345ec-ff8f-4b9f-9f88-1ce82fe57747.png)
+
+Geoapify Maps 
+
+![image](https://user-images.githubusercontent.com/119978382/217621702-c05e70f7-b04f-4b00-b0b7-c0f7d6f82a0d.png)
+
+![image](https://user-images.githubusercontent.com/119978382/217622153-a60ed9a9-1709-4fe1-bbc5-f72261499bfe.png)
+
