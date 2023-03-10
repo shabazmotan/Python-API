@@ -1,4 +1,4 @@
-Summary
+# Summary
 
 Created a Python script to visualize the weather of over 500 cities of varying distances from the equator utilizing API keys. Created a series of scatter plots to showcase the following relationships:
  - Latitude vs. Temperature
